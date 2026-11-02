@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-- 📄 **[Docue](https://github.com/Ayroid/docue)** - Document template hub built for the YMSLI hackathon. Turns the `.docx`, `.pptx` and `.xlsx` files you already use into templates you can find and fill in, editing the XML in place so formatting survives
+- 📄 **[Docue](https://github.com/Ayroid/docue)** - Turns the `.docx`, `.pptx` and `.xlsx` files you already use into reusable templates. Find one by describing what you need, answer a short interview, and get a finished document back, with formatting preserved
 - 🧠 **[Micrograd](https://github.com/Ayroid/micrograd)** - A tiny autograd engine and neural network library built from scratch in Python, following Andrej Karpathy's lecture. Backpropagation to a trained MLP in under 100 lines
 - 🎯 **[Validuct](https://github.com/ayroid/validuct)** - Evidence-based idea validation platform. Stop guessing, start validating.
 - 🏗️ **[Darch](https://github.com/ayroid/darch)** - Visual AWS architecture designer with automatic Terraform code generation
